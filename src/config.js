@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51HbbQoHn5HMWxn3xNB3HA68ITk22ea7eWjEiIB7gMPjfuSupGs6ZXMUgZi1fy9F31Ee5jHiVeY3wBAtk19j2yUSr00hMhA1y4P",
     s3: {
         REGION: "us-east-2",
         BUCKET: "notes-app-uploads-kanishka"
